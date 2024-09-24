@@ -6,7 +6,7 @@ Please be mindful of the design presented. Try not to disrupt the styling consis
 First, clone the project to your local machine using the following command and cd into the new directory:
 
 ```bash
-git clone https://github.com/2406mmartin/acmweb-website-structure
+git clone https://github.com/2406mmartin/acmweb-website-structure.git
 cd acmweb-website-structure
 ```
 
