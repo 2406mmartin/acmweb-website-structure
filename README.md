@@ -2,7 +2,7 @@
 
 Please be mindful of the design presented. Try not to disrupt the styling consistencies and theming. 
 
-### Clone & CD
+### 1. Clone & CD
 First, clone the project to your local machine using the following command and cd into the new directory:
 
 ```bash
@@ -10,7 +10,7 @@ git clone https://github.com/2406mmartin/acmweb-website-structure
 cd acmweb-website-structure
 ```
 
-### Install Dependencies
+### 2. Install Dependencies
 Then, run the command to install all the required dependencies:
 
 ```bash
