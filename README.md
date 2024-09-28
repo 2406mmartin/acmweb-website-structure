@@ -1,6 +1,6 @@
 # ACM Web Website Structure
 
-Please be mindful of the design presented. Try not to disrupt the styling consistencies and theming. 
+Please maintain the design consistency and theming without disrupting the existing styling.
 
 ### 1. Clone & CD
 First, clone the project to your local machine using the following command and cd into the new directory:
